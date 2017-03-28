@@ -1,6 +1,6 @@
 # fibpy
 
-# About
+## About
 Fibonacci spiral sampling (Quasi-Monte Carlo techniques) utilities.
 
 ## Use
