@@ -28,7 +28,7 @@ Fibonacci spiral sampling (Quasi-Monte Carlo techniques) utilities.
 
 ### Sampling on unit sphere
 <p align="center">
-<img src="res/sphere_mode=0.png" width="430">
+<img src="res/sphere_mode0.png" width="430">
 <img src="res/sphere_mode=1.png" width="430">
 </p>
 <p align="center">Default perturbation - Random perturbation</p>
