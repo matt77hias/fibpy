@@ -49,3 +49,6 @@ Fibonacci spiral sampling (Quasi-Monte Carlo techniques) utilities.
 # Code
 test.test()
 ```
+
+## Bibliography
+ROBERTS M.: [*Evenly distributing points on a sphere*](http://extremelearning.com.au/evenly-distributing-points-on-a-sphere/), 2018.
